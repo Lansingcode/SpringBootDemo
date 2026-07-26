@@ -14,6 +14,9 @@ public class SpringbootConditionApplication {
 //        获取Bean，redisTemplate
         Object redisTemplate = context.getBean("redisTemplate");
         System.out.println(redisTemplate);
+
+        Object user = context.getBean("user");
+        System.out.println(user);
     }
 
 }
