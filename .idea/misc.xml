@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/springboot-condition/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-enable/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-enable-other/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-ioc-appcontext/pom.xml" />
       </list>
     </option>
   </component>
