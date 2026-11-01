@@ -1,5 +1,8 @@
 package org.example.springiocappcontext;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class UserService {
     private MailService mailService;
 
