@@ -23,7 +23,7 @@ public class HelloController {
     public String sayHello(){
         System.out.println(environment.getProperty("person.age"));
         System.out.println(person.toString());
-        return "hello "+name;
+        return "hello "+person.getName();
 
     }
 }
